@@ -1,0 +1,1 @@
+Hello, My name is Alex Nguyen and this is my first github repository following the Odin Project. 
